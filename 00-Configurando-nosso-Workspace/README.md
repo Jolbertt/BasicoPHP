@@ -40,4 +40,4 @@ Como estamos utilizando o linux, aqui vão alguns comandos que você precisará 
 
 Para criarmos nossos arquivos para estudo utilizaremos o seguinte caminho - \\\\wsl.localhost\Ubuntu\var\www\html no qual é o caminho para o diretório raiz do nosso apache.
 
-Vá para [Sessão 01 - Variáveis e Tipos de dados](../01-Variáveis-e-Tipos-de-dados/README.md).
+Vá para [Sessão 01 - Sintaxe e Variáveis](../01-Sintaxe-e-Variáveis/README.md).
