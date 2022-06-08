@@ -2,7 +2,7 @@
 
 Primeiramente faremos a configuração do nosso workspace para a utilização neste curso.
 
-Utilizaremos o PHP 7.4.3 e o apache 2.4.41
+Utilizaremos o Ubuntu 20.04 PHP 7.4.3 e o apache 2.4.41
 
 
 ## Como baixar e fazer instalação dos pacotes
@@ -36,3 +36,5 @@ Como estamos utilizando o linux, aqui vão alguns comandos que você precisará 
 - sudo nano /var/www/html/caminho-do-arquivo.php - caso você precise editar algum dos arquivos via linux
 
 Para criarmos nossos arquivos para estudo utilizaremos o seguinte caminho - \\\\wsl.localhost\Ubuntu\var\www\html no qual é o caminho para o diretório raiz do nosso apache.
+
+Vá para [Sessão 01 - Variáveis e Tipos de dados](../01-Variáveis-e-Tipos-de-dados/README.md).
