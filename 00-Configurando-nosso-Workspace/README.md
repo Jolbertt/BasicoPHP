@@ -19,5 +19,20 @@ Neste curso utilizaremos um recurso do windows chamado wsl, onde atravez da loja
 
 3.2 - sudo apt install apache2 -y
 
-3.3 - sudo apt install php php-mysql php-xml php-json -y
+3.3 - sudo apt install php php-mysql php-xml php-json libapache2-mod-php -y
 
+3.4 - sudo rm /var/www/html/index.html
+
+3.5 - echo "Curso PHP" > /var/www/html/index.php
+
+4 - Quando acabar de executar os comandos, reinicie o computador para aplicação das configurações.
+
+## Observações
+
+Como estamos utilizando o linux, aqui vão alguns comandos que você precisará saber:
+
+- sudo service apache2 restart - comando utilizado para reiniciar o apache
+
+- sudo nano /var/www/html/caminho-do-arquivo.php - caso você precise editar algum dos arquivos via linux
+
+Para criarmos nossos arquivos para estudo utilizaremos o seguinte caminho - \\\\wsl.localhost\Ubuntu\var\www\html no qual é o caminho para o diretório raiz do nosso apache.
