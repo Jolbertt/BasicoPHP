@@ -1,2 +1,2 @@
 # BasicoPHP
-Este diretório é voltado para o auxílio do aprendizado de PHP
+Este repositório é voltado para o auxílio do aprendizado de PHP
