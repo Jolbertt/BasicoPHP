@@ -1,11 +1,11 @@
-#Início
+# Início
 
 Primeiramente faremos a configuração do nosso workspace para a utilização neste curso.
 
 Utilizaremos o PHP 7.4.3 e o apache 2.4.41
 
 
-##Como baixar e fazer instalação dos pacotes
+## Como baixar e fazer instalação dos pacotes
 
 Neste curso utilizaremos um recurso do windows chamado wsl, onde atravez da loja da microsoft instalaremos uma vm ubuntu, e para isso basta seguir o passo a passo:
 
