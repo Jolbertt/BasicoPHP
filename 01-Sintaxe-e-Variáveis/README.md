@@ -45,14 +45,34 @@ No exemplo acima podemos perceber bem claramente como são feitas as declaraçõ
 Em PHP não temos uma tipagem explicita das variáveis, os tipos que mais utilizaremos serão 7.
 
 Quatro tipos de dados básicos:
-- Integer
-- Float
-- String
-- boolean
+- Integer - $a = 1
+- Float - $a = 0.1
+- String - $a = "Esta é uma string"
+- boolean - $a = True
 
 Dois tipos compostos:
-- Array
-- Object
+- Array - $a = array()
+- Object - $a = new mysqli()
 
 Um tipo especial:
-- null
+- null - $a = null
+
+### Quoting
+
+Nesta parte gostaria de abordar um pouco sobre as aspas ou quoting. Em PHP nós podemos usar as aspas para vários objetivos, seguem alguns exemplos:
+
+```
+<?php
+
+$a = 1;
+$b = 2;
+
+echo("$a$b"); // Exemplo de concatenação de duas variáveis em uma string
+echo($a . " - " . $b); // Aqui vemos uma concatenação das duas variáveis em um string com um hífen separando as duas (Muito utilizado para logs)
+echo('$a$b'); // Neste exemplo será impresso $a$b e não seus valores
+
+?>
+
+```
+
+Vá para [Sessão 02-Operadores-e-Controle-de-Fluxo](../02-Operadores-e-Controle-de-Fluxo/README.md).
