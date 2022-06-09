@@ -38,6 +38,8 @@ Como estamos utilizando o linux, aqui vão alguns comandos que você precisará 
 
 - sudo nano /var/www/html/caminho-do-arquivo.php - caso você precise editar algum dos arquivos via linux
 
-Para criarmos nossos arquivos para estudo utilizaremos o seguinte caminho - \\\\wsl.localhost\Ubuntu\var\www\html no qual é o caminho para o diretório raiz do nosso apache.
+- Para criarmos nossos arquivos para estudo utilizaremos o seguinte caminho - \\\\wsl.localhost\Ubuntu\var\www\html no qual é o caminho para o diretório raiz do nosso apache.
+
+- Para testar-mos os códigos desenvolvidos basta criar o arquivo de exemplo na pasta especificada no caminho acima e acessar em seu browser favorito o link http://localhost/nome-do-arquivo.php 
 
 Vá para [Sessão 01 - Sintaxe e Variáveis](../01-Sintaxe-e-Variáveis/README.md).
