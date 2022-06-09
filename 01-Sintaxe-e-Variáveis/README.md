@@ -77,4 +77,4 @@ echo('$a$b'); // Neste exemplo será impresso $a$b e não seus valores
 
 ```
 
-Vá para [Sessão 02-Operadores-e-Controle-de-Fluxo](../02-Operadores/README.md).
+Vá para [Sessão 02-Operadores](../02-Operadores/README.md).

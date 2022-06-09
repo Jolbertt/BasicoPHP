@@ -69,4 +69,4 @@ Em PHP temos operadores de pre incremento e Pós incremento como em C, a seguir 
 |   $a--   |    Pós-decremento     | Retorna $a, e então decrementa $a em um.   |
 
 
-Vá para [Sessão 02-Operadores-e-Controle-de-Fluxo](../03-Controle-de-fluxo/README.md).
+Vá para [Sessão 03-Controle-de-Fluxo](../03-Controle-de-fluxo/README.md).
