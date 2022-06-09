@@ -57,6 +57,8 @@ Dois tipos compostos:
 Um tipo especial:
 - null - $a = null
 
+Obs.: Nomes de variável como em C/C++ não pode começar com um número.
+
 ### Quoting
 
 Nesta parte gostaria de abordar um pouco sobre as aspas ou quoting. Em PHP nós podemos usar as aspas para vários objetivos, seguem alguns exemplos:
@@ -75,4 +77,4 @@ echo('$a$b'); // Neste exemplo será impresso $a$b e não seus valores
 
 ```
 
-Vá para [Sessão 02-Operadores-e-Controle-de-Fluxo](../02-Operadores-e-Controle-de-Fluxo/README.md).
+Vá para [Sessão 02-Operadores-e-Controle-de-Fluxo](../02-Operadores/README.md).
