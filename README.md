@@ -9,7 +9,7 @@ Este curso é voltado para te tirar do 0 em PHP e te ajudar a iniciar seu aprend
 
 - [x] [Operadores](02-Operadores/README.md)
 
-- [ ] [Controle de Fluxo](03-Controle-de-Fluxo/README.md)
+- [x] [Controle de Fluxo](03-Controle-de-fluxo/README.md)
 
 - [ ] [Loops](04-Loops/README.md)
 
