@@ -12,7 +12,7 @@ Os operadores são simbolos utilizados para comparações, tomada de decisões, 
 | Exemplo   | Nome                  | Descrição                                                   |
 |-----------|-----------------------|-------------------------------------------------------------|
 |  $a or $b |    or, \|\| - OU      | Verdadeiro se $a ou $b são verdadeiros.                     |
-| $a and $b |  and, && - E lógico   | Verdadeiro se tanto $a quanto $b são verdadeiros.           |
+| $a and $b |      and, && - E      | Verdadeiro se tanto $a quanto $b são verdadeiros.           |
 
 ### Operadores de Comparação
 

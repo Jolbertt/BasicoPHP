@@ -23,7 +23,3 @@ Este curso é voltado para te tirar do 0 em PHP e te ajudar a iniciar seu aprend
 
 - [ ] [PHP em linha de comando](09-PHP-em-linha-de-comando/README.md)
 
-
-## Notas
-
-Este curso é basicamente algo que queria ter quando comecei.

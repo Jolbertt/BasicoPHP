@@ -2,6 +2,16 @@
 
 Neste módulo falaremos sobre como funciona a sintaxe e as variáveis do PHP.
 
+## Comentários
+
+Os comentários em PHP são exemplificados de duas maneiras,
+
+// Com duas barras
+
+/* E com barra asterisco */
+
+Onde o primeiro exemplo comenta somente uma linha e o segundo exemplo comenta tudo entre a as barras e asteriscos.
+
 ## Sintaxe
 
 A sintaxe do PHP é bem semelhante à sintaxe de C/C++ com algumas peculiaridades como o início, todo início de script php deve iniciar com a declaração do marcador <?php e sendo opcional a declaração da marcação final do arquivo ?> como a parte do código a seguir.
