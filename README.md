@@ -1,6 +1,6 @@
 # BasicoPHP
 
-Este curso é voltado para te tirar do 0 em PHP e te ajudar a iniciar seu aprendizado em programação.
+Este curso é voltado para te tirar do 0 em PHP e te ajudar a iniciar seu aprendizado.
 
 
 - [x] [Configurado Workspace](00-Configurando-Workspace/README.md)
@@ -13,7 +13,7 @@ Este curso é voltado para te tirar do 0 em PHP e te ajudar a iniciar seu aprend
 
 - [x] [Loops](04-Loops/README.md)
 
-- [ ] [Classes e Funções](05-Classes-e-Funções/README.md)
+- [x] [Classes e Funções](05-Classes-e-Funções/README.md)
 
 - [ ] [Entradas e Saidas](06-Entradas-e-Saidas/README.md)
 
