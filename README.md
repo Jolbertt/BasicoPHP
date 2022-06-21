@@ -11,7 +11,7 @@ Este curso é voltado para te tirar do 0 em PHP e te ajudar a iniciar seu aprend
 
 - [x] [Controle de Fluxo](03-Controle-de-fluxo/README.md)
 
-- [ ] [Loops](04-Loops/README.md)
+- [x] [Loops](04-Loops/README.md)
 
 - [ ] [Classes e Funções](05-Classes-e-Funções/README.md)
 

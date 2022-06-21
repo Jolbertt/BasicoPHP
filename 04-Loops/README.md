@@ -1,4 +1,4 @@
-# Loops
+# Introdução
 
 Os loops ou laços de repetição, são estruturas que o proprio nome explica, estruturas para a repetição de um bloco de código, nestemódulo falaremos de algumas dessas estruturas, como o for e o while.
 
